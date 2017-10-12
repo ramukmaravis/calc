@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sivaram/.android/build-cache/3007193f4c57bb929ccbf68c8584306aa83b529a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/sivaram/Downloads/AndroidStudioProjects/calculator/app/build/intermediates/pre-dexed/debug/classes_64055a0bf4954b9f78b1cbd38205e6af4844b524.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sivaram/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/sivaram/Downloads/AndroidStudioProjects/calculator/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_8a2f7a81a5e83dc8f65a4c5e9b7f419079c62b77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sivaram/.android/build-cache/248474e3f962a43bd0e46c48fca6cd00810f742d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/sivaram/Downloads/AndroidStudioProjects/calculator/app/build/intermediates/pre-dexed/debug/classes_ee6ba7b51999f733564092d23bb314c1d94b75bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sivaram/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/sivaram/Downloads/AndroidStudioProjects/calculator/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_c9f79f10dfd887b5e84cfc59e0ea743c8093f074.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sivaram/.android/build-cache/0a241d6a9b53c615de587fe557af05be75ec200c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/sivaram/Downloads/AndroidStudioProjects/calculator/app/build/intermediates/pre-dexed/debug/classes_91e6e80bd3537857799845f9ece1d67fbef329dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sivaram/.android/build-cache/65655a0e9c9444e08e9554efe0f4af7b73ec0260/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/sivaram/Downloads/AndroidStudioProjects/calculator/app/build/intermediates/pre-dexed/debug/classes_09a381ee9d4c80de4940d7f90377b067bfad0353.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sivaram/.android/build-cache/b9011c105b7b6987cc5a651ad263ad47e9c2b06d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/sivaram/Downloads/AndroidStudioProjects/calculator/app/build/intermediates/pre-dexed/debug/classes_46f2e92a931f3c92ab22daabe4421ffd50e5d3f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sivaram/.android/build-cache/aff9fb675b80f4c7ab8c7b99a7add5e0aa0c0e38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sivaram/Downloads/AndroidStudioProjects/calculator/app/build/intermediates/pre-dexed/debug/classes_53e2d439055f97e5ba0e1271ca87f9540f319076.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sivaram/.android/build-cache/a45fc459781299b3df2a75c14ac1f7db9f7e6981/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/sivaram/Downloads/AndroidStudioProjects/calculator/app/build/intermediates/pre-dexed/debug/classes_9f22e1252d81d553ffec8a4ec1a0789ff64025cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sivaram/.android/build-cache/15643943a0c526338f7f0e7c1d031028d71db9ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/sivaram/Downloads/AndroidStudioProjects/calculator/app/build/intermediates/pre-dexed/debug/classes_eb23f4640dd45dc19612e99ab366265eed470d37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sivaram/.android/build-cache/d4db39031851a3e644c222f06ba75ed957bf524f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/sivaram/Downloads/AndroidStudioProjects/calculator/app/build/intermediates/pre-dexed/debug/classes_595bafd94ff906e0a3b73c7855115c887829f02b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sivaram/.android/build-cache/2059a65d7a0d00e7b316df0353e9598af58c4b4c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/sivaram/Downloads/AndroidStudioProjects/calculator/app/build/intermediates/pre-dexed/debug/classes_f820b0bfebdbf6630952ec5ec718e5977a7d2f68.jar" />
+    </item>
+
+</items>
